@@ -6,7 +6,7 @@ This branch contains screenshots of the CVision mobile notification app.
 
 ## Screenshots
 
-### [Login](login.mobile.jpeg)
+### [Login](login_mobile.jpeg)
 The login screen for candidates and companies to access the mobile app.
 
 ### [Candidate Notifications](candidate_notification.jpeg)
