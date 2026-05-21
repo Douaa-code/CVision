@@ -9,8 +9,8 @@ Shows statistics and charts, saved jobs section, recent applications table (with
 
 > **Note:** Once a candidate confirms an offer, all other applications are automatically rejected to prevent conflicts. The candidate then gains access to the company's training program and can request separation from the admin.
 
-## [Separation](separation.jpeg)
-- **Request Separation Button:** Opens a popup window with a file upload field, additional comments text area, and a submit button to send the request to the admin.
+## [Separation](application_dashboard.jpeg)
+- [**Request Separation Button:**](separation.jpeg) Opens a popup window with a file upload field, additional comments text area, and a submit button to send the request to the admin.
 
 ## [Profile](candiadte_profile.jpeg)
 Allows the user to enter and edit personal information, skills, education, experience, languages, and upload a profile photo and certificate.
