@@ -10,7 +10,7 @@ This repository contains all visual assets (screenshots, UML diagrams, and payme
 
 | Branch | Content |
 |:---|:---|
-| [`uml-diagrams`](https://github.com/YOUR_USERNAME/CVision-Screenshots/tree/uml-diagrams) | UML Class, Use Case, ERD, and 6 Sequence Diagrams |
+| [`uml-diagrams`](https://github.com/Douaa-code/CVision/blob/uml-diagrams) | UML Class, Use Case, ERD, and 6 Sequence Diagrams |
 | [`screenshots-guest`](https://github.com/YOUR_USERNAME/CVision-Screenshots/tree/screenshots-guest) | Public interface: Homepage, About Us, Terms & Rules, Login, Register, Forgot/Reset Password |
 | [`screenshots-candidate`](https://github.com/YOUR_USERNAME/CVision-Screenshots/tree/screenshots-candidate) | Candidate dashboard: Profile, Job Search, Apply, Tests, Training, Messages, Settings |
 | [`screenshots-company`](https://github.com/YOUR_USERNAME/CVision-Screenshots/tree/screenshots-company) | Company dashboard: Job Offers, Applicants, Recruitment, Tests, Training, Messages, Settings |
