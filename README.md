@@ -12,11 +12,11 @@ This repository contains all visual assets (screenshots, UML diagrams, and payme
 |:---|:---|
 | [`uml-diagrams`](https://github.com/Douaa-code/CVision/tree/uml-diagrams) | UML Class, Use Case, ERD, and 6 Sequence Diagrams |
 | [`screenshots-guest`](https://github.com/Douaa-code/CVision/tree/screenshots-guest) | Public interface: Homepage, About Us, Terms & Rules, Login, Register, Forgot/Reset Password |
-| [`screenshots-candidate`](https://github.com/Douaa-code/CVision/blob/screenshots-candidate) | Candidate dashboard: Profile, Job Search, Apply, Tests, Training, Messages, Settings |
+| [`screenshots-candidate`](https://github.com/Douaa-code/CVision/tree/screenshots-candidate) | Candidate dashboard: Profile, Job Search, Apply, Tests, Training, Messages, Settings |
 | [`screenshots-company`](https://github.com/Douaa-code/CVision/tree/screenshots-company) | Company dashboard: Job Offers, Applicants, Recruitment, Tests, Training, Messages, Settings |
-| [`screenshots-admin`](https://github.com/Douaa-code/CVision/blob/screenshots-admin) | Admin dashboard: Analytics, Companies, Candidates, Users, Job Offers, Applications, Ads, Separation Requests, Settings |
+| [`screenshots-admin`](https://github.com/Douaa-code/CVision/tree/screenshots-admin) | Admin dashboard: Analytics, Companies, Candidates, Users, Job Offers, Applications, Ads, Separation Requests, Settings |
 | [`screenshots-mobile`](https://github.com/Douaa-code/CVision/tree/screenshots-mobile) | Mobile notification app: Login, Candidate Notifications, Company Notifications |
-| [`payment-prototype`](https://github.com/Douaa-code/CVision/blob/payment-prototype) | Payment system design mockups (subscriptions, CV database, ads) |
+| [`payment-prototype`](https://github.com/Douaa-code/CVision/tree/payment-prototype) | Payment system design mockups (subscriptions, CV database, ads) |
 
 ---
 
